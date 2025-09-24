@@ -1,0 +1,5 @@
+
+
+> @n8n/db@0.24.0 build /home/mayeul/projects/n8n/packages/@n8n/db
+> tsc -p tsconfig.build.json
+

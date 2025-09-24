@@ -1,0 +1,8 @@
+
+
+> n8n-editor-ui@1.113.0 fetch-popularity /home/mayeul/projects/n8n/packages/frontend/editor-ui
+> node scripts/fetch-node-popularity.mjs
+
+Fetching node popularity data from: https://internal.users.n8n.cloud/webhook/nodes-popularity-scores
+Successfully fetched popularity data for 979 nodes
+Saved popularity data to /home/mayeul/projects/n8n/packages/frontend/editor-ui/.build/node-popularity.json with 979 nodes

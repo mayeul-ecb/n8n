@@ -1,0 +1,5 @@
+
+
+> @n8n/imap@0.15.0 build /home/mayeul/projects/n8n/packages/@n8n/imap
+> tsc -p tsconfig.build.json
+

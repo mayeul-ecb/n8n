@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/backend/types.ts"],"sourcesContent":["export type BackendExtensionContext = {\n\texample?: string;\n};\n\nexport type BackendExtensionSetupFn = (context: BackendExtension) => void;\n\nexport type BackendExtension = {\n\tsetup: BackendExtensionSetupFn;\n};\n"],"mappings":";;;;;;;;;;;;;;;;AAAA;AAAA;","names":[]}

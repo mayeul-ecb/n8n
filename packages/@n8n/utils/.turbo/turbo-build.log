@@ -1,0 +1,71 @@
+
+
+> @n8n/utils@1.16.0 build /home/mayeul/projects/n8n/packages/@n8n/utils
+> tsup
+
+[34mCLI[39m Building entry: src/assert.ts, src/event-bus.ts, src/event-queue.ts, src/retry.ts, src/number/smartDecimal.ts, src/search/reRankSearchResults.ts, src/search/sublimeSearch.ts, src/sort/sortByProperty.ts, src/string/truncate.ts
+[34mCLI[39m Using tsconfig: tsconfig.json
+[34mCLI[39m tsup v8.5.0
+[34mCLI[39m Using tsup config: /home/mayeul/projects/n8n/packages/@n8n/utils/tsup.config.ts
+[34mCLI[39m Target: esnext
+[34mCLI[39m Cleaning output folder
+[34mCJS[39m Build start
+[34mESM[39m Build start
+[32mESM[39m [1mdist/assert.js                         [22m[32m188.00 B[39m
+[32mESM[39m [1mdist/number/smartDecimal.js            [22m[32m324.00 B[39m
+[32mESM[39m [1mdist/search/reRankSearchResults.js     [22m[32m607.00 B[39m
+[32mESM[39m [1mdist/sort/sortByProperty.js            [22m[32m357.00 B[39m
+[32mESM[39m [1mdist/event-bus.js                      [22m[32m932.00 B[39m
+[32mESM[39m [1mdist/event-queue.js                    [22m[32m680.00 B[39m
+[32mESM[39m [1mdist/retry.js                          [22m[32m840.00 B[39m
+[32mESM[39m [1mdist/search/sublimeSearch.js           [22m[32m5.63 KB[39m
+[32mESM[39m [1mdist/string/truncate.js                [22m[32m1.16 KB[39m
+[32mESM[39m [1mdist/assert.js.map                     [22m[32m456.00 B[39m
+[32mESM[39m [1mdist/number/smartDecimal.js.map        [22m[32m650.00 B[39m
+[32mESM[39m [1mdist/search/reRankSearchResults.js.map [22m[32m1.32 KB[39m
+[32mESM[39m [1mdist/sort/sortByProperty.js.map        [22m[32m683.00 B[39m
+[32mESM[39m [1mdist/event-bus.js.map                  [22m[32m2.96 KB[39m
+[32mESM[39m [1mdist/event-queue.js.map                [22m[32m1.73 KB[39m
+[32mESM[39m [1mdist/retry.js.map                      [22m[32m2.36 KB[39m
+[32mESM[39m [1mdist/search/sublimeSearch.js.map       [22m[32m12.06 KB[39m
+[32mESM[39m [1mdist/string/truncate.js.map            [22m[32m2.32 KB[39m
+[32mESM[39m ⚡️ Build success in 632ms
+[32mCJS[39m [1mdist/string/truncate.cjs                [22m[32m1.27 KB[39m
+[32mCJS[39m [1mdist/assert.cjs                         [22m[32m393.00 B[39m
+[32mCJS[39m [1mdist/event-bus.cjs                      [22m[32m1020.00 B[39m
+[32mCJS[39m [1mdist/event-queue.cjs                    [22m[32m770.00 B[39m
+[32mCJS[39m [1mdist/retry.cjs                          [22m[32m919.00 B[39m
+[32mCJS[39m [1mdist/number/smartDecimal.cjs            [22m[32m410.00 B[39m
+[32mCJS[39m [1mdist/search/reRankSearchResults.cjs     [22m[32m700.00 B[39m
+[32mCJS[39m [1mdist/search/sublimeSearch.cjs           [22m[32m5.74 KB[39m
+[32mCJS[39m [1mdist/sort/sortByProperty.cjs            [22m[32m445.00 B[39m
+[32mCJS[39m [1mdist/string/truncate.cjs.map            [22m[32m3.10 KB[39m
+[32mCJS[39m [1mdist/assert.cjs.map                     [22m[32m671.00 B[39m
+[32mCJS[39m [1mdist/event-bus.cjs.map                  [22m[32m3.60 KB[39m
+[32mCJS[39m [1mdist/event-queue.cjs.map                [22m[32m2.21 KB[39m
+[32mCJS[39m [1mdist/retry.cjs.map                      [22m[32m2.92 KB[39m
+[32mCJS[39m [1mdist/number/smartDecimal.cjs.map        [22m[32m990.00 B[39m
+[32mCJS[39m [1mdist/search/reRankSearchResults.cjs.map [22m[32m1.76 KB[39m
+[32mCJS[39m [1mdist/search/sublimeSearch.cjs.map       [22m[32m14.92 KB[39m
+[32mCJS[39m [1mdist/sort/sortByProperty.cjs.map        [22m[32m1.01 KB[39m
+[32mCJS[39m ⚡️ Build success in 639ms
+DTS Build start
+DTS ⚡️ Build success in 21445ms
+DTS dist/assert.d.cts                     102.00 B
+DTS dist/event-bus.d.cts                  919.00 B
+DTS dist/event-queue.d.cts                149.00 B
+DTS dist/retry.d.cts                      206.00 B
+DTS dist/number/smartDecimal.d.cts        100.00 B
+DTS dist/search/reRankSearchResults.d.cts 265.00 B
+DTS dist/search/sublimeSearch.d.cts       299.00 B
+DTS dist/sort/sortByProperty.d.cts        123.00 B
+DTS dist/string/truncate.d.cts            187.00 B
+DTS dist/assert.d.ts                      102.00 B
+DTS dist/event-bus.d.ts                   919.00 B
+DTS dist/event-queue.d.ts                 149.00 B
+DTS dist/retry.d.ts                       206.00 B
+DTS dist/number/smartDecimal.d.ts         100.00 B
+DTS dist/search/reRankSearchResults.d.ts  265.00 B
+DTS dist/search/sublimeSearch.d.ts        299.00 B
+DTS dist/sort/sortByProperty.d.ts         123.00 B
+DTS dist/string/truncate.d.ts             187.00 B

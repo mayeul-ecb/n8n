@@ -1,0 +1,5 @@
+
+
+> @n8n/codemirror-lang-sql@1.1.0 build /home/mayeul/projects/n8n/packages/@n8n/codemirror-lang-sql
+> tsc -p tsconfig.build.json
+

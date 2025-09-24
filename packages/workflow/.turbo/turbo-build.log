@@ -1,0 +1,5 @@
+
+
+> n8n-workflow@1.110.0 build /home/mayeul/projects/n8n/packages/workflow
+> tsc --build tsconfig.build.esm.json tsconfig.build.cjs.json
+

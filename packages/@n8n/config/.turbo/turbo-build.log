@@ -1,0 +1,5 @@
+
+
+> @n8n/config@1.56.0 build /home/mayeul/projects/n8n/packages/@n8n/config
+> tsc -p tsconfig.build.json
+

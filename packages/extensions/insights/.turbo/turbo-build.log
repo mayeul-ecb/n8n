@@ -1,0 +1,9 @@
+
+
+> @n8n/n8n-extension-insights@0.7.0 build /home/mayeul/projects/n8n/packages/extensions/insights
+> pnpm cleanup && pnpm run "/^build:.*/"
+
+
+> @n8n/n8n-extension-insights@0.7.0 cleanup /home/mayeul/projects/n8n/packages/extensions/insights
+> rimraf dist
+

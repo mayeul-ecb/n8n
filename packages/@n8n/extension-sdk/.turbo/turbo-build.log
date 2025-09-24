@@ -1,0 +1,100 @@
+
+
+> @n8n/extension-sdk@0.7.0 build /home/mayeul/projects/n8n/packages/@n8n/extension-sdk
+> pnpm "/^typecheck:.+/" && pnpm clean && tsup && pnpm create-json-schema
+
+
+> @n8n/extension-sdk@0.7.0 clean /home/mayeul/projects/n8n/packages/@n8n/extension-sdk
+> rimraf dist
+
+[34mCLI[39m Building entry: src/index.ts, src/schema.ts
+[34mCLI[39m Using tsconfig: tsconfig.common.json
+[34mCLI[39m tsup v8.5.0
+[34mCLI[39m Using tsup config: /home/mayeul/projects/n8n/packages/@n8n/extension-sdk/tsup.config.ts
+[34mCLI[39m Building entry: src/backend/define.ts, src/backend/index.ts, src/backend/types.ts
+[34mCLI[39m Using tsconfig: tsconfig.backend.json
+[34mCLI[39m tsup v8.5.0
+[34mCLI[39m Using tsup config: /home/mayeul/projects/n8n/packages/@n8n/extension-sdk/tsup.config.ts
+[34mCLI[39m Building entry: src/frontend/define.ts, src/frontend/index.ts, src/frontend/types.ts
+[34mCLI[39m Using tsconfig: tsconfig.frontend.json
+[34mCLI[39m tsup v8.5.0
+[34mCLI[39m Using tsup config: /home/mayeul/projects/n8n/packages/@n8n/extension-sdk/tsup.config.ts
+[34mCLI[39m Target: es2021
+[34mCJS[39m Build start
+[34mESM[39m Build start
+[34mCLI[39m Target: esnext
+[34mCJS[39m Build start
+[34mESM[39m Build start
+[34mCLI[39m Target: es2021
+[34mCJS[39m Build start
+[34mESM[39m Build start
+[32mESM[39m [1mdist/index.js              [22m[32m136.00 B[39m
+[32mESM[39m [1mdist/schema.js             [22m[32m137.00 B[39m
+[32mESM[39m [1mdist/chunk-4ERGEAXV.js     [22m[32m1.76 KB[39m
+[32mESM[39m [1mdist/index.js.map          [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/schema.js.map         [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/chunk-4ERGEAXV.js.map [22m[32m2.90 KB[39m
+[32mESM[39m ⚡️ Build success in 128ms
+[32mCJS[39m [1mdist/index.cjs      [22m[32m3.04 KB[39m
+[32mCJS[39m [1mdist/schema.cjs     [22m[32m3.02 KB[39m
+[32mCJS[39m [1mdist/index.cjs.map  [22m[32m2.99 KB[39m
+[32mCJS[39m [1mdist/schema.cjs.map [22m[32m2.94 KB[39m
+[32mCJS[39m ⚡️ Build success in 133ms
+[32mCJS[39m [1mdist/backend/define.cjs     [22m[32m1.17 KB[39m
+[32mCJS[39m [1mdist/backend/index.cjs      [22m[32m1.19 KB[39m
+[32mCJS[39m [1mdist/backend/types.cjs      [22m[32m800.00 B[39m
+[32mCJS[39m [1mdist/backend/define.cjs.map [22m[32m354.00 B[39m
+[32mCJS[39m [1mdist/backend/index.cjs.map  [22m[32m446.00 B[39m
+[32mCJS[39m [1mdist/backend/types.cjs.map  [22m[32m346.00 B[39m
+[32mCJS[39m ⚡️ Build success in 126ms
+[32mESM[39m [1mdist/backend/define.js             [22m[32m135.00 B[39m
+[32mESM[39m [1mdist/backend/index.js              [22m[32m134.00 B[39m
+[32mESM[39m [1mdist/backend/chunk-B7CLIGBD.js     [22m[32m172.00 B[39m
+[32mESM[39m [1mdist/backend/types.js              [22m[32m33.00 B[39m
+[32mESM[39m [1mdist/backend/define.js.map         [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/backend/index.js.map          [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/backend/chunk-B7CLIGBD.js.map [22m[32m310.00 B[39m
+[32mESM[39m [1mdist/backend/types.js.map          [22m[32m71.00 B[39m
+[32mESM[39m ⚡️ Build success in 126ms
+[32mCJS[39m [1mdist/frontend/define.cjs     [22m[32m1.18 KB[39m
+[32mCJS[39m [1mdist/frontend/index.cjs      [22m[32m1.20 KB[39m
+[32mCJS[39m [1mdist/frontend/types.cjs      [22m[32m801.00 B[39m
+[32mCJS[39m [1mdist/frontend/define.cjs.map [22m[32m359.00 B[39m
+[32mCJS[39m [1mdist/frontend/index.cjs.map  [22m[32m452.00 B[39m
+[32mCJS[39m [1mdist/frontend/types.cjs.map  [22m[32m569.00 B[39m
+[32mCJS[39m ⚡️ Build success in 135ms
+[32mESM[39m [1mdist/frontend/define.js             [22m[32m137.00 B[39m
+[32mESM[39m [1mdist/frontend/index.js              [22m[32m136.00 B[39m
+[32mESM[39m [1mdist/frontend/chunk-LTKOPDVC.js     [22m[32m175.00 B[39m
+[32mESM[39m [1mdist/frontend/types.js              [22m[32m33.00 B[39m
+[32mESM[39m [1mdist/frontend/define.js.map         [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/frontend/index.js.map          [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/frontend/chunk-LTKOPDVC.js.map [22m[32m315.00 B[39m
+[32mESM[39m [1mdist/frontend/types.js.map          [22m[32m71.00 B[39m
+[32mESM[39m ⚡️ Build success in 135ms
+DTS Build start
+DTS Build start
+DTS Build start
+DTS ⚡️ Build success in 5466ms
+DTS dist/frontend/types.d.cts  490.00 B
+DTS dist/frontend/define.d.cts 213.00 B
+DTS dist/frontend/index.d.cts  192.00 B
+DTS dist/frontend/types.d.ts   490.00 B
+DTS dist/frontend/define.d.ts  212.00 B
+DTS dist/frontend/index.d.ts   190.00 B
+DTS ⚡️ Build success in 14665ms
+DTS dist/backend/types.d.cts  276.00 B
+DTS dist/backend/define.d.cts 173.00 B
+DTS dist/backend/index.d.cts  153.00 B
+DTS dist/backend/types.d.ts   276.00 B
+DTS dist/backend/define.d.ts  172.00 B
+DTS dist/backend/index.d.ts   151.00 B
+DTS ⚡️ Build success in 15077ms
+DTS dist/schema.d.cts 2.61 KB
+DTS dist/index.d.cts  89.00 B
+DTS dist/schema.d.ts  2.61 KB
+DTS dist/index.d.ts   88.00 B
+
+> @n8n/extension-sdk@0.7.0 create-json-schema /home/mayeul/projects/n8n/packages/@n8n/extension-sdk
+> tsx scripts/create-json-schema.ts
+

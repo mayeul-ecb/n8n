@@ -1,0 +1,9 @@
+
+
+> @n8n/node-cli@0.9.0 build /home/mayeul/projects/n8n/packages/@n8n/node-cli
+> tsc -p tsconfig.build.json && pnpm copy-templates
+
+
+> @n8n/node-cli@0.9.0 copy-templates /home/mayeul/projects/n8n/packages/@n8n/node-cli
+> node scripts/copy-templates.mjs
+

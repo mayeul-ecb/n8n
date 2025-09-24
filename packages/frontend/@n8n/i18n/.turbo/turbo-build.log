@@ -1,0 +1,39 @@
+
+
+> @n8n/i18n@1.17.0 build /home/mayeul/projects/n8n/packages/frontend/@n8n/i18n
+> tsup
+
+[34mCLI[39m Building entry: src/index.ts, src/types.ts, src/utils.ts
+[34mCLI[39m Using tsconfig: tsconfig.json
+[34mCLI[39m tsup v8.5.0
+[34mCLI[39m Using tsup config: /home/mayeul/projects/n8n/packages/frontend/@n8n/i18n/tsup.config.ts
+[34mCLI[39m Target: esnext
+[34mCLI[39m Cleaning output folder
+[34mCJS[39m Build start
+[34mESM[39m Build start
+[32mCJS[39m [1mdist/index.cjs              [22m[32m289.41 KB[39m
+[32mCJS[39m [1mdist/types.cjs              [22m[32m47.00 B[39m
+[32mCJS[39m [1mdist/chunk-MOPMPZJO.cjs     [22m[32m1.55 KB[39m
+[32mCJS[39m [1mdist/utils.cjs              [22m[32m438.00 B[39m
+[32mCJS[39m [1mdist/index.cjs.map          [22m[32m409.64 KB[39m
+[32mCJS[39m [1mdist/types.cjs.map          [22m[32m203.00 B[39m
+[32mCJS[39m [1mdist/chunk-MOPMPZJO.cjs.map [22m[32m4.27 KB[39m
+[32mCJS[39m [1mdist/utils.cjs.map          [22m[32m272.00 B[39m
+[32mCJS[39m ⚡️ Build success in 1231ms
+[32mESM[39m [1mdist/utils.js              [22m[32m254.00 B[39m
+[32mESM[39m [1mdist/index.js              [22m[32m287.75 KB[39m
+[32mESM[39m [1mdist/types.js              [22m[32m33.00 B[39m
+[32mESM[39m [1mdist/chunk-NITZKE2M.js     [22m[32m1.38 KB[39m
+[32mESM[39m [1mdist/utils.js.map          [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/chunk-NITZKE2M.js.map [22m[32m3.41 KB[39m
+[32mESM[39m [1mdist/types.js.map          [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/index.js.map          [22m[32m375.86 KB[39m
+[32mESM[39m ⚡️ Build success in 1238ms
+DTS Build start
+DTS ⚡️ Build success in 59958ms
+DTS dist/index.d.cts 192.04 KB
+DTS dist/types.d.cts 272.59 KB
+DTS dist/utils.d.cts 393.00 B
+DTS dist/index.d.ts  192.03 KB
+DTS dist/types.d.ts  272.59 KB
+DTS dist/utils.d.ts  393.00 B

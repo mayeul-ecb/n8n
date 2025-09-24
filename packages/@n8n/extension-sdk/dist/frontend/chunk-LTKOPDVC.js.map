@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/frontend/define.ts"],"sourcesContent":["import type { FrontendExtension } from './types.ts';\n\nexport function defineFrontendExtension(extension: FrontendExtension): FrontendExtension {\n\treturn extension;\n}\n"],"mappings":";AAEO,SAAS,wBAAwB,WAAiD;AACxF,SAAO;AACR;","names":[]}

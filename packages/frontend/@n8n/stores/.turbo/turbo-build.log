@@ -1,0 +1,55 @@
+
+
+> @n8n/stores@1.20.0 build /home/mayeul/projects/n8n/packages/frontend/@n8n/stores
+> tsup
+
+[34mCLI[39m Building entry: src/constants.ts, src/index.ts, src/metaTagConfig.ts, src/useAgentRequestStore.ts, src/useRootStore.ts
+[34mCLI[39m Using tsconfig: tsconfig.json
+[34mCLI[39m tsup v8.5.0
+[34mCLI[39m Using tsup config: /home/mayeul/projects/n8n/packages/frontend/@n8n/stores/tsup.config.ts
+[34mCLI[39m Target: esnext
+[34mCLI[39m Cleaning output folder
+[34mCJS[39m Build start
+[34mESM[39m Build start
+[32mESM[39m [1mdist/constants.js                [22m[32m106.00 B[39m
+[32mESM[39m [1mdist/index.js                    [22m[32m102.00 B[39m
+[32mESM[39m [1mdist/useAgentRequestStore.js     [22m[32m1.96 KB[39m
+[32mESM[39m [1mdist/metaTagConfig.js            [22m[32m202.00 B[39m
+[32mESM[39m [1mdist/useRootStore.js             [22m[32m5.53 KB[39m
+[32mESM[39m [1mdist/chunk-P5E2M35E.js           [22m[32m1.18 KB[39m
+[32mESM[39m [1mdist/chunk-MFIRIEND.js           [22m[32m1017.00 B[39m
+[32mESM[39m [1mdist/constants.js.map            [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/index.js.map                [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/useAgentRequestStore.js.map [22m[32m4.01 KB[39m
+[32mESM[39m [1mdist/metaTagConfig.js.map        [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/chunk-P5E2M35E.js.map       [22m[32m1.83 KB[39m
+[32mESM[39m [1mdist/chunk-MFIRIEND.js.map       [22m[32m1.89 KB[39m
+[32mESM[39m [1mdist/useRootStore.js.map         [22m[32m10.60 KB[39m
+[32mESM[39m ⚡️ Build success in 423ms
+[32mCJS[39m [1mdist/constants.cjs                [22m[32m215.00 B[39m
+[32mCJS[39m [1mdist/index.cjs                    [22m[32m211.00 B[39m
+[32mCJS[39m [1mdist/metaTagConfig.cjs            [22m[32m336.00 B[39m
+[32mCJS[39m [1mdist/useAgentRequestStore.cjs     [22m[32m2.92 KB[39m
+[32mCJS[39m [1mdist/useRootStore.cjs             [22m[32m6.24 KB[39m
+[32mCJS[39m [1mdist/chunk-LL25Q6HO.cjs           [22m[32m1.26 KB[39m
+[32mCJS[39m [1mdist/chunk-TI4WVUCB.cjs           [22m[32m1.12 KB[39m
+[32mCJS[39m [1mdist/constants.cjs.map            [22m[32m254.00 B[39m
+[32mCJS[39m [1mdist/index.cjs.map                [22m[32m246.00 B[39m
+[32mCJS[39m [1mdist/metaTagConfig.cjs.map        [22m[32m272.00 B[39m
+[32mCJS[39m [1mdist/useAgentRequestStore.cjs.map [22m[32m5.04 KB[39m
+[32mCJS[39m [1mdist/useRootStore.cjs.map         [22m[32m9.67 KB[39m
+[32mCJS[39m [1mdist/chunk-LL25Q6HO.cjs.map       [22m[32m2.40 KB[39m
+[32mCJS[39m [1mdist/chunk-TI4WVUCB.cjs.map       [22m[32m1.86 KB[39m
+[32mCJS[39m ⚡️ Build success in 503ms
+DTS Build start
+DTS ⚡️ Build success in 21221ms
+DTS dist/metaTagConfig.d.cts        218.00 B
+DTS dist/useAgentRequestStore.d.cts 2.41 KB
+DTS dist/useRootStore.d.cts         7.42 KB
+DTS dist/constants.d.cts            1.52 KB
+DTS dist/index.d.cts                42.00 B
+DTS dist/metaTagConfig.d.ts         218.00 B
+DTS dist/useAgentRequestStore.d.ts  2.41 KB
+DTS dist/useRootStore.d.ts          7.42 KB
+DTS dist/constants.d.ts             1.52 KB
+DTS dist/index.d.ts                 41.00 B

@@ -1,0 +1,5 @@
+
+
+> n8n-core@1.112.0 build /home/mayeul/projects/n8n/packages/core
+> tsc -p tsconfig.build.json && tsc-alias -p tsconfig.build.json
+

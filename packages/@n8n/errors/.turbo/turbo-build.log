@@ -1,0 +1,5 @@
+
+
+> @n8n/errors@0.5.0 build /home/mayeul/projects/n8n/packages/@n8n/errors
+> tsc -p tsconfig.build.json
+

@@ -1,0 +1,5 @@
+
+
+> @n8n/task-runner@1.49.0 build /home/mayeul/projects/n8n/packages/@n8n/task-runner
+> tsc -p ./tsconfig.build.json && tsc-alias -p tsconfig.build.json
+
